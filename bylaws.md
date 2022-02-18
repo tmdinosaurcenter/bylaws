@@ -134,4 +134,5 @@ I do hereby certify that the above amended and restated Bylaws of the Montana Di
 
 **/s/Sandra Dogiakos**
 Secretary of the Corporation 
+
 Dated: August 11, 2020
