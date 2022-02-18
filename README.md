@@ -1,2 +1,2 @@
 # TMDC-Bylaws
-Bylaws of the Two Medicine Dinosaur Center
+Bylaws of the Montana Dinosaur Center
