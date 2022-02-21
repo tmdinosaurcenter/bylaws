@@ -1,4 +1,4 @@
-#Governance Committee
+# Governance Committee
 
 [Governance Committee](https://github.com/Montana-Dinosaur-Center/bylaws/tree/main/governance%20committee) is where governance committee bylaws amendments are found.
 
