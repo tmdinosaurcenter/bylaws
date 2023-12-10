@@ -1,5 +1,10 @@
 # Table of contents
 
 * [Bylaws Repository](README.md)
-* [Bylaws of the Montana Dinosaur Center](bylaws.md)
-* [Governance Committee](<governance committee/readme.md>)
+* [Bylaws](bylaws.md)
+
+## Committees
+
+* [Governance Committee](committees/governance-committee.md)
+* [Finance Committee](committees/finance-committee.md)
+* [Development Committee](committees/development-committee.md)
