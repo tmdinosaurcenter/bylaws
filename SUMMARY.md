@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Bylaws Repository](README.md)
+* [Bylaws & Policy Repository](README.md)
 * [Bylaws](bylaws.md)
 
 ## Committees
