@@ -268,10 +268,25 @@ Notice of any proposed amendment shall be provided to all Directors at least 7 d
 
 The Board shall maintain a Board Policy Manual containing all current policies adopted by the Board. The Secretary shall ensure that this manual is kept up to date and made available to all Directors.
 
-## CERTIFICATE OF ADOPTION OF RESTATED BYLAWS
+## Certificate of Adoption of Restated Bylaws
 
 I do hereby certify that the above amended and restated Bylaws of the Montana Dinosaur Center, Inc., were approved by the Board of Directors on August 11, 2020.
 
 **/s/Sandra Dogiakos** Secretary of the Corporation
 
 Dated: August 11, 2020
+
+***
+
+### Amended by the Board April 17, 2025
+
+* Amended [Section 5.06](bylaws.md#id-5.06-development-committee)
+* Added [Section 5.07](bylaws.md#id-5.07-collections-committee)
+* Amended [Section 8.06](bylaws.md#id-8.06-amendments)
+* Added [Section 7.06](bylaws.md#id-7.06-financial-policies)
+* Amended [Section 3.05](bylaws.md#id-3.05-removal-of-directors)
+* &#x20;Amended[ Section 8.02](bylaws.md#id-8.02-conflict-of-interest)
+* Amended [Section 3.04](bylaws.md#id-3.04-vacancies)
+* Added [Section 8.07](bylaws.md#id-8.07-board-policy-manual)
+* Added [Section 4.11](bylaws.md#id-4.11-officer-vacancies)
+* Added [Section 3.10](bylaws.md#id-3.10-qualifications-of-directors)
