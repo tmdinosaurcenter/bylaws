@@ -46,14 +46,14 @@ All Directors will be elected to serve four (4) year terms; provided, however, t
 
 ### 3.04 Vacancies.
 
-The Board of Directors may fill vacancies due to the resignation, death, or removal of a Director or may appoint new Directors to fill a previously unfilled Board position, subject to the maximum number of Directors under these Bylaws.
+The Board of Directors may fill vacancies due to the resignation, death, or removal of a Director or may appoint new Directors to fill a previously unfilled Board position, subject to the maximum number of Directors under these Bylaws.&#x20;
 
 1. Unexpected Vacancies. Vacancies in the Board of Directors due to resignation, death, or removal shall be filled by the Board for the balance of the term of the Director being replaced.
-2. Filling Previously Unfilled Positions. Each Director appointed by the Board between the Annual General Meeting to add a Director to a previously unfilled Board position shall stand for election for the balance of the term with the next slate of candidates presented to the Board for election under these Bylaws.
+2. Filling Previously Unfilled Positions. Each Director appointed by the Board between the Annual General Meeting to add a Director to a previously unfilled Board position shall stand for election for the balance of the term with the next slate of candidates presented to the Board for election under these Bylaws. Appointed Directors shall complete the remainder of the original term associated with the seat to which they are appointed, not a new full term.
 
 ### 3.05 Removal of Directors.
 
-A Director may be removed in accordance with Montana Code Annotated.
+A Director may be removed by a two-thirds (⅔) vote of the Board of Directors then in office, provided that at least 7 days’ notice of the proposed removal is given to all Directors and to the Director in question. The Director subject to removal shall be given an opportunity to respond before the vote. All removal actions shall comply with the Montana Code Annotated and applicable nonprofit law.
 
 ### 3.06 Board of Directors Meetings.
 
@@ -93,7 +93,17 @@ The first Board Meeting of the calendar year shall be considered the Annual Gene
 
 ### 3.10 Qualifications of Directors.
 
-In order to be eligible as a Director on the Board of Directors, the individual must be eighteen (18) years of age, and in compliance with the Corporate Ethics Policies.
+In order to be eligible as a Director on the Board of Directors, the individual must be at least eighteen (18) years of
+
+age and in compliance with the Corporation’s Ethics Policies.
+
+Board members are expected to contribute meaningfully to the organization through one or more of the following:
+
+* Time – actively participating in Board meetings, committees, events, and strategic planning;
+* Talent – offering professional or personal expertise that advances the Corporation’s mission;
+* Treasure – making an annual financial contribution that is personally significant and demonstrates a commitment to the Corporation’s sustainability.
+
+This “Time, Talent, or Treasure” framework recognizes that Directors may contribute in different ways based on their capacity, and that a well-rounded Board includes members with varying strengths. All Directors shall agree to support the organization’s mission, attend regular meetings, and serve in good faith as fiduciaries of the Corporation.
 
 ## ARTICLE IV OFFICERS
 
@@ -137,6 +147,10 @@ Directors are not restricted from being remunerated for professional services pr
 
 The Executive Director shall be an Officer of the Corporation, appointed by the Board. If the Executive Director resigns as an Officer of the Corporation, he or she may no longer serve as Executive Director. The Board of Directors may designate additional Officer positions of the Corporation and may appoint and assign duties to other non-director Officers of the Corporation. As an Officer, the Executive Director is not a member of the Board.
 
+### 4.11 Officer Vacancies.
+
+In the event of a vacancy in any Officer position, the Board shall elect a replacement to serve the remainder of the unexpired term at the next regular or special meeting of the Board.
+
 ## ARTICLE V COMMITTEES
 
 ### 5.01 Committees.
@@ -162,7 +176,23 @@ The Board shall have a Finance Committee with powers established by the Board, c
 
 ### 5.06 Development Committee.
 
-The Board shall have a Development Committee with powers established by the Board, consistent with these Bylaws.
+The Board shall have a Development Committee focused on fundraising and resource development. The purpose of the Development Committee is to assist the Board in fulfilling its fiduciary responsibility to ensure the financial health of the Corporation through strategic fundraising. This includes supporting donor relations, cultivating major gifts, organizing fundraising events or campaigns, and advising on development strategy. The Development Committee shall work in collaboration with staff to align fundraising efforts with the mission, strategic plan, and resource needs of the Corporation. The Committee shall have additional powers or duties as established by the Board.
+
+### 5.07 Collections Committee.
+
+The Board shall have a standing Collections Committee responsible for oversight of the Corporation’s collections and adherence to the approved [Collections Management Policy](https://docs.tmdinosaurcenter.org/board/policies/collections-management-policy). The Committee shall provide guidance and support to staff regarding the acquisition, care, documentation, use, and deaccession of specimens and objects held in the public trust by the Corporation.
+
+The Collections Committee shall:
+
+* Review and recommend changes to the Collections Management Policy;
+* Advise on ethical and legal considerations related to collections;
+* Support the alignment of collections practices with the Corporation’s mission and professional standards;
+* Assist in decisions regarding loans, donations, and deaccessions, as outlined in the Collections Management Policy;
+* Participate in long-term planning related to storage, conservation, and collections access.
+
+The Committee shall be composed of at least two (2) Board Directors and may include additional non-Director members with expertise in paleontology, museum collections, or related disciplines, subject to Board approval. TheExecutive Director and Collections Manager (or equivalent staff role) shall serve as non-voting ex officio members.
+
+All actions and recommendations of the Collections Committee shall be consistent with the current Collections
 
 ## ARTICLE VI EXECUTIVE DIRECTOR & STAFF
 
@@ -201,6 +231,10 @@ No loans shall be contracted on behalf of the Corporation and no evidence of ind
    2. an undertaking by or on behalf of the Director, officer, employee, or agent to repay such amount unless it shall ultimately be determined that he or she is not entitled to be indemnified by the Corporation in these Bylaws.
 4. Indemnification of Officers, Agents, and Employees. An officer of the Corporation who is not a Director is entitled to mandatory indemnification under this Article to the same extent as a Director. The Corporation may also indemnify and advance expenses to an employee or agent of the Corporation who is not a Director, consistent with Montana Law and public policy, provided that such indemnification, and the scope of such indemnification, is set forth by the general or specific action of the Board or by contract.
 
+### 7.06 Financial Policies.
+
+The Board shall adopt a written financial policy, to be reviewed annually by the board, to be reviewed annually, which specifies limits for expenditures and contract approvals by Officers and staff, including the Executive Director.
+
 ## ARTICLE VIII MISCELLANEOUS
 
 ### 8.01 Books and Records.
@@ -209,7 +243,7 @@ The Corporation shall keep correct and complete books and records of account and
 
 ### 8.02 Conflict of Interest.
 
-The Board shall adopt and periodically review a conflict of interest policy to protect the Corporation's interest when it is contemplating any transaction or arrangement which may benefit any Director, Officer, employee, or member of a Committee with Board-delegated powers.
+The Board shall adopt and periodically review a conflict of interest policy to protect the Corporation's interest when it is contemplating any transaction or arrangement which may benefit any Director, Officer, employee, or member of a Committee with Board-delegated powers. The Conflict of Interest Policy shall be reviewed and re-adopted by the Board at least once every three years or upon the onboarding of new Directors.
 
 ### 8.03 Actions Regarding Ownership Interests.
 
@@ -225,6 +259,14 @@ Except where these Bylaws or state or federal law supersede, the most recent edi
 
 1. Agenda items may be added at the beginning of any regular meeting by presentation of the item topic by a Director and approval of the majority of Directors present.
 2. Discussion may precede a motion. 8.06 Amendments. These Bylaws, except as required by the Collections and Ethics Policies section, may be amended, altered, repealed, or restated by a supermajority (⅔) of the Board of Directors.
+
+### 8.06 Amendments
+
+Notice of any proposed amendment shall be provided to all Directors at least 7 days in advance of the meeting where such amendments will be considered. Such notice shall include the full text or a summary of the proposed changes.
+
+### 8.07 Board Policy Manual.
+
+The Board shall maintain a Board Policy Manual containing all current policies adopted by the Board. The Secretary shall ensure that this manual is kept up to date and made available to all Directors.
 
 ## CERTIFICATE OF ADOPTION OF RESTATED BYLAWS
 
