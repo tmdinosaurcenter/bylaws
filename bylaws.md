@@ -190,9 +190,9 @@ The Collections Committee shall:
 * Assist in decisions regarding loans, donations, and deaccessions, as outlined in the Collections Management Policy;
 * Participate in long-term planning related to storage, conservation, and collections access.
 
-The Committee shall be composed of at least two (2) Board Directors and may include additional non-Director members with expertise in paleontology, museum collections, or related disciplines, subject to Board approval. TheExecutive Director and Collections Manager (or equivalent staff role) shall serve as non-voting ex officio members.
+The Committee shall be composed of at least two (2) Board Directors and may include additional non-Director members with expertise in paleontology, museum collections, or related disciplines, subject to Board approval. The Executive Director and Collections Manager (or equivalent staff role) shall serve as non-voting ex officio members.
 
-All actions and recommendations of the Collections Committee shall be consistent with the current Collections
+All actions and recommendations of the Collections Committee shall be consistent with the current Collections Management Policy.
 
 ## ARTICLE VI EXECUTIVE DIRECTOR & STAFF
 
