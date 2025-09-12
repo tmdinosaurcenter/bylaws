@@ -245,26 +245,30 @@ The Corporation shall keep correct and complete books and records of account and
 
 The Board shall adopt and periodically review a conflict of interest policy to protect the Corporation's interest when it is contemplating any transaction or arrangement which may benefit any Director, Officer, employee, or member of a Committee with Board-delegated powers. The Conflict of Interest Policy shall be reviewed and re-adopted by the Board at least once every three years or upon the onboarding of new Directors.
 
-### 8.03 Actions Regarding Ownership Interests.
+### 8.03 Advisory Council. <a href="#docs-internal-guid-6f80f245-7fff-df44-458e-33217354e777" id="docs-internal-guid-6f80f245-7fff-df44-458e-33217354e777"></a>
+
+The Board Chair may appoint an Advisory Council consisting of individuals who provide considerable value to the Corporation. The Advisory Council shall be limited to providing advice to the Board Chair on matters referred to the Council. Directors may not serve on the Advisory Council.&#x20;
+
+### 8.04 Actions Regarding Ownership Interests.
 
 The Board shall exercise membership powers and ownership interests, if any, either by Board action in accordance with these Bylaws or by delegation of authority to act for the Corporation to the Executive Committee or Executive Director or his or her designees.
 
-### 8.04 Collections and Ethics Policies
+### 8.05 Collections and Ethics Policies
 
 The Corporation shall adhere to its established ethics and collections management policies. TMDC does not condone the sale or private ownership of any significant specimen. Unlike any other section of this document, this section may not be changed or repealed except as necessary to further protect and care for such specimens for future generations, and then only a unanimous vote of the entire Board of Directors.
 
-### 8.05 Robert's Rules of Order.
+### 8.06 Robert's Rules of Order.
 
 Except where these Bylaws or state or federal law supersede, the most recent edition of Robert's Rules of Order shall be used to govern the procedures, rules, and actions of the Corporation with the following exceptions:
 
 1. Agenda items may be added at the beginning of any regular meeting by presentation of the item topic by a Director and approval of the majority of Directors present.
-2. Discussion may precede a motion. 8.06 Amendments. These Bylaws, except as required by the Collections and Ethics Policies section, may be amended, altered, repealed, or restated by a supermajority (⅔) of the Board of Directors.
+2. Discussion may precede a motion.&#x20;
 
-### 8.06 Amendments
+### 8.07 Amendments
 
 Notice of any proposed amendment shall be provided to all Directors at least 7 days in advance of the meeting where such amendments will be considered. Such notice shall include the full text or a summary of the proposed changes.
 
-### 8.07 Board Policy Manual.
+### 8.08 Board Policy Manual.
 
 The Board shall maintain a Board Policy Manual containing all current policies adopted by the Board. The Secretary shall ensure that this manual is kept up to date and made available to all Directors.
 
