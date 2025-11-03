@@ -1,6 +1,6 @@
 # Bylaws
 
-## ARTICLE I: NAME
+## Article I: Name
 
 ### 1.01 Name.
 
@@ -10,7 +10,7 @@ The name of this Corporation is Timescale Adventures, Inc. Pending approval by a
 
 The Corporation may, at its pleasure, change its name by a vote of a supermajority (2/3) of the Board of Directors (the “Board”). Any such name change shall be done by filing the notice of the use of an assumed name by the Corporation or by an amendment to the Bylaws of the Corporation and the Articles of Incorporation with appropriate the State or Federal Agencies. Unless a name change is necessary to meet future State or Federal requirements, any such change must not affect the acronym for collections, and thus must always be able to be represented by “TMDC.”
 
-## ARTICLE II PURPOSES AND POWERS
+## Article II: Purposes and Powers
 
 ### 2.01 Purpose.
 
@@ -30,7 +30,7 @@ The Corporation shall have the power, directly or indirectly, alone or in conjun
 2. **Exempt Activities Limitation.** Notwithstanding any other provision of these Bylaws, no Director, Officer, employee, or representative of this Corporation shall take any action or carry on any activity by or on behalf of the Corporation not permitted to be taken or carried on by an organization exempt under Code Section 501(c)(3), or by an organization contributions to which are deductible under Section 170(c)(2) of such Code and Regulations as it now exists or may be amended. No part of the net earnings of the Corporation shall inure to the benefit or be distributable to any Director, Officer, or other private person, except that the Corporation shall be authorized and empowered to pay reasonable compensation for services rendered and to make payments and distributions in furtherance of the purposes set forth in these Bylaws.
 3. **Distribution Upon Dissolution.** Upon the dissolution of the organization, collections shall be transferred to the designated backup repository, as specified in the current Collections Management Policy. Other assets shall be distributed for one or more exempt purposes within the meaning of Code Section 501(c)(3), or shall be distributed to the federal government or to a state or local government, for a public purpose. Any assets not disposed of shall be disposed of by the District Court of the county in which the principal office of the organization is then located, exclusively for such purposes or to such organization or organizations, as said court shall determine, which are organized and operated exclusively for such nonprofit purposes.
 
-## ARTICLE III BOARD OF DIRECTORS
+## Article III: Board of Directors
 
 ### 3.01 Number of Directors.
 
@@ -105,7 +105,7 @@ Board members are expected to contribute meaningfully to the organization throug
 
 This “Time, Talent, or Treasure” framework recognizes that Directors may contribute in different ways based on their capacity, and that a well-rounded Board includes members with varying strengths. All Directors shall agree to support the organization’s mission, attend regular meetings, and serve in good faith as fiduciaries of the Corporation.
 
-## ARTICLE IV OFFICERS
+## Article IV: Officers
 
 ### 4.01 Board Officers.
 
@@ -151,7 +151,7 @@ The Executive Director shall be an Officer of the Corporation, appointed by the 
 
 In the event of a vacancy in any Officer position, the Board shall elect a replacement to serve the remainder of the unexpired term at the next regular or special meeting of the Board.
 
-## ARTICLE V COMMITTEES
+## Article V: Committees
 
 ### 5.01 Committees.
 
@@ -194,7 +194,7 @@ The Committee shall be composed of at least two (2) Board Directors and may incl
 
 All actions and recommendations of the Collections Committee shall be consistent with the current Collections Management Policy.
 
-## ARTICLE VI EXECUTIVE DIRECTOR & STAFF
+## Article VI: Executive Director & Staff
 
 ### 6.01 Appointment.
 
@@ -204,7 +204,7 @@ The Board of Directors may appoint an Executive Director as the chief executive 
 
 The Executive Director shall be responsible for administrative management of the Corporation, with general and active supervision over the property, business, and affairs of the Corporation. The Executive Director shall serve as the Corporation’s primary spokesperson to its constituents, the media, and the general public. The Executive Director shall carry out the policies and programs of the Corporation and perform duties as directed by the Board, subject to oversight by the Board and the Executive Committee.
 
-## ARTICLE VII CONTRACTS, CHECKS, LOANS, INDEMNIFICATION, & RELATED MATTERS
+## Article VII: Contracts, Checks, Loans, Indemnification & Related Matters
 
 ### 7.01 Contracts and Other Writings.
 
@@ -235,7 +235,7 @@ No loans shall be contracted on behalf of the Corporation and no evidence of ind
 
 The Board shall adopt a written financial policy, to be reviewed annually by the board, to be reviewed annually, which specifies limits for expenditures and contract approvals by Officers and staff, including the Executive Director.
 
-## ARTICLE VIII MISCELLANEOUS
+## Article VIII: Miscellaneous
 
 ### 8.01 Books and Records.
 
