@@ -32,30 +32,30 @@ The Corporation shall have the power, directly or indirectly, alone or in conjun
 
 ## Article III: Board of Directors
 
-### 3.01 Number of Directors.
+### 3.01 Number of Directors
 
 The Corporation shall have a Board of Directors consisting of at least five (5) Directors and no more than twenty-three (23) Directors. Within these limits, the Board may increase or decrease the number of Directors serving on the Board, including for the purpose of staggering the terms of the Directors, to have approximately one-third of the Board elected, but not fewer than three Directors, at the Annual General Meeting
 
-### 3.02 Powers.
+### 3.02 Powers
 
 Except as otherwise provided by law, all corporate powers are exercised by or under the authority of the Board and the affairs of the Corporation are managed under the direction of the Board.
 
-### 3.03 Terms.
+### 3.03 Terms
 
 All Directors will be elected to serve four (4) year terms; provided, however, that the term may be extended until a successor has been elected.
 
-### 3.04 Vacancies.
+### 3.04 Vacancies
 
 The Board of Directors may fill vacancies due to the resignation, death, or removal of a Director or may appoint new Directors to fill a previously unfilled Board position, subject to the maximum number of Directors under these Bylaws.&#x20;
 
 1. Unexpected Vacancies. Vacancies in the Board of Directors due to resignation, death, or removal shall be filled by the Board for the balance of the term of the Director being replaced.
 2. Filling Previously Unfilled Positions. Each Director appointed by the Board between the Annual General Meeting to add a Director to a previously unfilled Board position shall stand for election for the balance of the term with the next slate of candidates presented to the Board for election under these Bylaws. Appointed Directors shall complete the remainder of the original term associated with the seat to which they are appointed, not a new full term.
 
-### 3.05 Removal of Directors.
+### 3.05 Removal of Directors
 
 A Director may be removed by a two-thirds (⅔) vote of the Board of Directors then in office, provided that at least 7 days’ notice of the proposed removal is given to all Directors and to the Director in question. The Director subject to removal shall be given an opportunity to respond before the vote. All removal actions shall comply with the Montana Code Annotated and applicable nonprofit law.
 
-### 3.06 Board of Directors Meetings.
+### 3.06 Board of Directors Meetings
 
 1. **Regular Meetings.** The Board of Directors shall have a minimum of four (4) regular meetings each calendar year at times and places fixed by the Board President and agreeable to the majority of the Board at least 15 days prior to the meeting and in accordance with the Communications Policy.
 2. **Special Meetings.** Special meetings of the Board may be called by the Board President, by any two members of the Executive Committee, or by at least 2, or alternatively 10 percent whichever number is larger, of the Directors. A special meeting must be preceded by at least 2 days' notice to each Director of the date, time, and place, but not the necessarily purpose, of the meeting. A response from all Board members shall be solicited, and the meeting rescheduled if a quorum is not able to attend.
@@ -70,14 +70,14 @@ A Director may be removed by a two-thirds (⅔) vote of the Board of Directors t
    4. or the dissolution of the Corporation, then a notice must be given to each Director at least seven (7) days before the meeting stating the purpose, and the notice must be accompanied by a copy of or summary of the proposed amendment, plan of merger, transaction for the disposition of property, or proposed dissolution.
 5. **Waiver of Notice.** Any Director may waive notice of any meeting, in accordance with Montana law.
 
-### 3.07 Manner of Acting.
+### 3.07 Manner of Acting
 
 1. **Quorum.** A majority of the Directors in office immediately before a meeting shall constitute a quorum for the transaction of business at that meeting of the Board.
 2. **Vote.** The act of the majority of the voting Directors present at a meeting at which a quorum is present shall be the act of the Board, unless otherwise specified in these Bylaws or required by law. Each Director shall have one vote.
 3. **No Proxy Voting.** Directors may not vote or sign Board resolutions or consents by proxy.
 4. **Participation.** Directors may participate in a regular or special meeting through the use of any means of communication by which all Directors participating may simultaneously hear each other during the meeting, including in person, by telephone conference call, or similar remote communication as per the Communication Policy.
 
-### 3.08 Action Without Meeting.
+### 3.08 Action Without Meeting
 
 Any action required or permitted to be taken at a meeting of the Board may be taken without a meeting if a consent in writing setting forth the action so taken shall be signed by all of the Directors entitled to vote with respect to the subject matter thereof. Such action may be taken by e-mail if an electronic copy of the resolution is printed out, signed and returned to the Secretary by all Directors. Such consent shall have the same effect as a unanimous vote and shall be placed in the minutes by the Secretary.
 
@@ -91,11 +91,9 @@ The first Board Meeting of the calendar year shall be considered the Annual Gene
 4. **Business Plan.** The upcoming year’s business plan and budget describing the activities of the Corporation will be presented.\*\*
 5. **Public input, concerns, or recommendations.**
 
-### 3.10 Qualifications of Directors.
+### 3.10 Qualifications of Directors
 
-In order to be eligible as a Director on the Board of Directors, the individual must be at least eighteen (18) years of
-
-age and in compliance with the Corporation’s Ethics Policies.
+In order to be eligible as a Director on the Board of Directors, the individual must be at least eighteen (18) years of age and in compliance with the Corporation’s Ethics Policies.
 
 Board members are expected to contribute meaningfully to the organization through one or more of the following:
 
